@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Rock Conference",
+      "price": "£300"
+    },
+    {
+      "id": "2",
+      "name": "Jazz Show",
+      "price": "£200"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ale"
+    },
+    {
+      "id": "2",
+      "name": "Fran"
+    }
+  ]
+}
