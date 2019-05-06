@@ -1,0 +1,14 @@
+{
+  events: [
+    {
+      "id": "1",
+      "name": "Rock Conference",
+      "price": "£300"
+    },
+    {
+      "id": "2",
+      "name": "Jazz Show",
+      "price": "£200"
+    }
+  ]
+}
