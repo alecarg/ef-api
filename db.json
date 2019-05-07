@@ -4,23 +4,11 @@
       "id": "1",
       "name": "Rock Conference",
       "price": "£300",
-      "image": "https://via.placeholder.com/378x206?text=Event+Image"
+      "image": "https://via.placeholder.com/378x206?text=Event+Image",
+      "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae"
     },
     {
       "id": "2",
       "name": "Jazz Show",
       "price": "£200",
-      "image": "https://via.placeholder.com/378x206?text=Event+Image"
-    }
-  ],
-  "users": [
-    {
-      "id": "1",
-      "name": "Ale"
-    },
-    {
-      "id": "2",
-      "name": "Fran"
-    }
-  ]
-}
+      "image": "https://via.placeholder.com/378x206?text=Event+Image",
