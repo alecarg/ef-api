@@ -12,3 +12,18 @@
       "name": "Jazz Show",
       "price": "£200",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
+      "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae"
+     }	
+  ],	
+  "users": [	
+    {	
+      "id": "1",	
+      "name": "Ale"	
+    },	
+    {	
+      "id": "2",	
+      "name": "Fran"	
+    }	
+  ]	
+}	
+      
