@@ -3,12 +3,14 @@
     {
       "id": "1",
       "name": "Rock Conference",
-      "price": "£300"
+      "price": "£300",
+      "image": "https://via.placeholder.com/378x206?text=Event+Image"
     },
     {
       "id": "2",
       "name": "Jazz Show",
-      "price": "£200"
+      "price": "£200",
+      "image": "https://via.placeholder.com/378x206?text=Event+Image"
     }
   ],
   "users": [
