@@ -5,6 +5,7 @@
       "name": "Rock Conference",
       "price": "£300",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
+      "external-url": "https://www.eventbrite.co.uk/e/rock-the-belles-x-hiphop-hype-hoxton-tickets-61684123875",
       "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae"
     },
     {
@@ -12,6 +13,7 @@
       "name": "Jazz Show",
       "price": "£200",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
+      "external-url": "https://www.eventbrite.co.uk/e/riot-jazz-tickets-60865736055?aff=ebdssbdestsearch",
       "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae"
      }	
   ],	
