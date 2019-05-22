@@ -33,17 +33,17 @@
       "dateEnd": "23rd of October",
       "rewards": [
         {
-          "name": "Amazon Voucher (UK)"
+          "name": "Amazon Voucher (UK)",
           "monetaryValue": "£10",
           "followers": "2000 to 4000"
         },
         {
-          "name": "Amazon Voucher (UK)"
+          "name": "Amazon Voucher (UK)",
           "monetaryValue": "£20",
           "followers": "4000 to 6000"
         },
         {
-          "name": "Amazon Voucher (UK)"
+          "name": "Amazon Voucher (UK)",
           "monetaryValue": "£30",
           "followers": "6000 or more"
         }
