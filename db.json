@@ -84,14 +84,14 @@
     {
       "id": "1",
       "promotionId": "1",
-      "name": "Amazon Voucher (UK)"
+      "name": "Amazon Voucher (UK)",
       "monetaryValue": "£10",
       "voucher": "123789123789123789123789"
     },
     {
       "id": "2",
       "promotionId": "2",
-      "name": "Amazon Voucher (UK)"
+      "name": "Amazon Voucher (UK)",
       "monetaryValue": "£20",
       "voucher": "321098321098321098321098"
     }
