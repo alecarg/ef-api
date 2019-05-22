@@ -6,7 +6,21 @@
       "price": "£300",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
       "externalUrl": "https://www.eventbrite.co.uk/e/rock-the-belles-x-hiphop-hype-hoxton-tickets-61684123875",
-      "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae"
+      "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+      "dateStart": "23rd of August",
+      "dateEnd": "25th of September",
+      "rewards": [
+        {
+          "name": "Amazon Voucher (UK)"
+          "monetaryValue": "£10",
+          "followers": "2000 to 5000"
+        },
+        {
+          "name": "Amazon Voucher (UK)"
+          "monetaryValue": "£20",
+          "followers": "5000 or more"
+        }
+      ]
     },
     {
       "id": "2",
@@ -14,7 +28,26 @@
       "price": "£200",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
       "externalUrl": "https://www.eventbrite.co.uk/e/riot-jazz-tickets-60865736055?aff=ebdssbdestsearch",
-      "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae"
+      "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+      "dateStart": "26th of August",
+      "dateEnd": "23rd of October",
+      "rewards": [
+        {
+          "name": "Amazon Voucher (UK)"
+          "monetaryValue": "£10",
+          "followers": "2000 to 4000"
+        },
+        {
+          "name": "Amazon Voucher (UK)"
+          "monetaryValue": "£20",
+          "followers": "4000 to 6000"
+        },
+        {
+          "name": "Amazon Voucher (UK)"
+          "monetaryValue": "£30",
+          "followers": "6000 or more"
+        }
+      ]
      }	
   ],	
   "users": [	
@@ -26,6 +59,42 @@
       "id": "2",	
       "name": "Fran"	
     }	
-  ]	
+  ],
+  "promotions": [
+    {
+      "id": "1",
+      "userId": "1",
+      "eventId": "1",
+      "rewardAwarded": "false"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "eventId": "2",
+      "rewardAwarded": "false"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "eventId": "2",
+      "rewardAwarded": "false"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "1",
+      "promotionId": "1",
+      "name": "Amazon Voucher (UK)"
+      "monetaryValue": "£10",
+      "voucher": "123789123789123789123789"
+    },
+    {
+      "id": "2",
+      "promotionId": "2",
+      "name": "Amazon Voucher (UK)"
+      "monetaryValue": "£20",
+      "voucher": "321098321098321098321098"
+    }
+  ]
 }	
       
