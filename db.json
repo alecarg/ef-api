@@ -65,17 +65,11 @@
       "id": "1",
       "userId": "1",
       "eventId": "1",
-      "rewardAwarded": "false"
+      "rewardAwarded": "true"
     },
     {
       "id": "2",
       "userId": "1",
-      "eventId": "2",
-      "rewardAwarded": "false"
-    },
-    {
-      "id": "3",
-      "userId": "2",
       "eventId": "2",
       "rewardAwarded": "false"
     }
@@ -83,6 +77,7 @@
   "rewards": [
     {
       "id": "1",
+      "userId": "1",
       "promotionId": "1",
       "name": "Amazon Voucher (UK)",
       "monetaryValue": "£10",
@@ -90,6 +85,7 @@
     },
     {
       "id": "2",
+      "userId": "1",
       "promotionId": "2",
       "name": "Amazon Voucher (UK)",
       "monetaryValue": "£20",
