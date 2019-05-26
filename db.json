@@ -2,6 +2,7 @@
   "events": [
     {
       "id": "1",
+      "userOrganiserId": "2",
       "name": "Rock Conference",
       "price": "£300",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
@@ -24,6 +25,7 @@
     },
     {
       "id": "2",
+      "userOrganiserId": "2",
       "name": "Jazz Show",
       "price": "£200",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
