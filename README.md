@@ -1,14 +1,7 @@
 # ef-api
 
+Models (obsolete after API documentation finished)
 https://my-json-server.typicode.com/alecarg/ef-api
 
-# Requirements
-
-## User
-- GET: getUserById
-
-## Events
-- GET: getEventByOrganiserId
-
-## Promotions
-- GET: getPromotedEvents
+API documentation
+https://app.swaggerhub.com/apis/Ale1/EFApi/1.0.0
