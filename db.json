@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "1",
-      "userOrganiserId": "2",
+      "organiser": "2",
       "name": "Rock Conference",
       "price": "£300",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
@@ -17,7 +17,7 @@
     },
     {
       "id": "2",
-      "userOrganiserId": "2",
+      "organiser": "2",
       "name": "Jazz Show",
       "price": "£200",
       "image": "https://via.placeholder.com/378x206?text=Event+Image",
@@ -44,15 +44,63 @@
   "promotions": [
     {
       "id": "1",
-      "userId": "1",
-      "eventId": "1",
       "rewardAwarded": "true"
+      "user": {	
+        "id": "1",	
+        "name": "Ale"	
+      },
+      "event": {
+        "id": "1",
+        "organiser": "2",
+        "name": "Rock Conference",
+        "price": "£300",
+        "image": "https://via.placeholder.com/378x206?text=Event+Image",
+        "externalUrl": "https://www.eventbrite.co.uk/e/rock-the-belles-x-hiphop-hype-hoxton-tickets-61684123875",
+        "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+        "dateStart": "23rd of August",
+        "dateEnd": "25th of September",
+        "rewards": [
+          "2000 to 5000 folowers: £10 Amazon Voucher (UK)",
+          "5000 to 10000 folowers: £20 Amazon Voucher (UK)"
+        ]
+      },
+      "reward": {
+        "id": "1",
+        "promotionId": "1",
+        "name": "Amazon Voucher (UK)",
+        "monetaryValue": "£10",
+        "voucher": "123789123789123789123789"
+      }
     },
     {
       "id": "2",
-      "userId": "1",
-      "eventId": "2",
       "rewardAwarded": "false"
+      "user": {	
+        "id": "1",	
+        "name": "Ale"	
+      },
+      "event": {
+        "id": "1",
+        "organiser": "2",
+        "name": "Rock Conference",
+        "price": "£300",
+        "image": "https://via.placeholder.com/378x206?text=Event+Image",
+        "externalUrl": "https://www.eventbrite.co.uk/e/rock-the-belles-x-hiphop-hype-hoxton-tickets-61684123875",
+        "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+        "dateStart": "23rd of August",
+        "dateEnd": "25th of September",
+        "rewards": [
+          "2000 to 5000 folowers: £10 Amazon Voucher (UK)",
+          "5000 to 10000 folowers: £20 Amazon Voucher (UK)"
+        ]
+      },
+      "reward": {
+        "id": "2",
+        "promotionId": "2",
+        "name": "Amazon Voucher (UK)",
+        "monetaryValue": "£20",
+        "voucher": "321098321098321098321098"
+      }
     }
   ],
   "rewards": [
