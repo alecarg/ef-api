@@ -44,7 +44,7 @@
   "promotions": [
     {
       "id": "1",
-      "rewardAwarded": "true"
+      "rewardAwarded": "true",
       "user": {	
         "id": "1",	
         "name": "Ale"	
@@ -74,7 +74,7 @@
     },
     {
       "id": "2",
-      "rewardAwarded": "false"
+      "rewardAwarded": "false",
       "user": {	
         "id": "1",	
         "name": "Ale"	
