@@ -25,9 +25,15 @@
       "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
       "dateStart": "26th of August",
       "dateEnd": "23rd of October",
-      "rewards": [
-        "2000 to 5000 folowers: £10 Amazon Voucher (UK)",
-        "5000 to 10000 folowers: £20 Amazon Voucher (UK)"
+      "rewardConditions": [
+        {
+         "followers": "2000 to 5000 folowers",
+         "reward": "£10 Amazon Voucher (UK)" 
+        },
+        {
+         "followers": "2000 to 5000 folowers",
+         "reward": "£10 Amazon Voucher (UK)" 
+        }
       ]
      }	
   ],	
@@ -59,9 +65,15 @@
         "description": "Praesent et cursus quam. Etiam vulputate est et metus pellentesque iaculis. Suspendisse nec urna augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
         "dateStart": "23rd of August",
         "dateEnd": "25th of September",
-        "rewards": [
-          "2000 to 5000 folowers: £10 Amazon Voucher (UK)",
-          "5000 to 10000 folowers: £20 Amazon Voucher (UK)"
+        "rewardConditions": [
+          {
+           "followers": "2000 to 5000 folowers",
+           "reward": "£10 Amazon Voucher (UK)" 
+          },
+          {
+           "followers": "2000 to 5000 folowers",
+           "reward": "£10 Amazon Voucher (UK)" 
+          }
         ]
       },
       "reward": {
