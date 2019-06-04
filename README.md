@@ -18,6 +18,7 @@
 - [NOT SURE] Document in swagger: https://app.swaggerhub.com/apis/Ale1/EFApi/1.0.0
 - Implement API requirements via Serverless and Dynamodb
 - [NOT SURE] Auth via Okta? https://scotch.io/tutorials/build-simple-authentication-in-express-in-15-minutes
+- [NOT SURE] Auth via Passport.js? http://www.passportjs.org/docs/
 
 ## Implementation (Serverless and Dynamodb)
 For latest, follow these steps:
