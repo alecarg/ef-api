@@ -1,5 +1,11 @@
 {
-  "readme": "This-is-mock-data-only-and-can-be-deleted; this has nothing to do with dynamoDb; this uses https://my-json-server.typicode.com/alecarg/ef-api",
+  "readme": [
+    {
+      "id": "1",
+      "About": "This-is-mock-data-only-and-can-be-deleted",
+      "More": "This has nothing to do with dynamoDb; this uses https://my-json-server.typicode.com/alecarg/ef-api"
+    }
+  ],
   "events": [
     {
       "id": "1",
