@@ -1,7 +1,7 @@
 # ef-api
 
 ## Models and mock data
-- https://my-json-server.typicode.com/alecarg/ef-api
+- https://my-json-server.typicode.com/alecarg/ef-api (using this repo's db.json)
 
 ## API requirements
 ### For all users
