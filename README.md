@@ -19,6 +19,12 @@
 - Implement API requirements via Serverless and Dynamodb
 
 ## Implementation (Serverless and Dynamodb)
-Follow these two to set up a local environment (or just pull this repo and go through the commands laid out on the second link)
+For latest, follow these steps:
+1) Pull repo and `cd` into it
+2) Install packages with `yarn install`
+3) Install the DB with `sls dynamodb install`
+4) Run serverless offline and dynamodb with `sls offline start`
+
+Based on the following two articles (the first one is just a dependency on the second one)
 - https://serverless.com/framework/docs/providers/aws/guide/credentials/
 - https://serverless.com/blog/serverless-express-rest-api/
