@@ -34,17 +34,14 @@ provider:
     USERS_TABLE: ${self:custom.tableName}
 
 functions:
-  app:
-    handler: index.handler
-    events:
-      - http: ANY /
-      - http: 'ANY {proxy+}'
+
   getUser:
-    handler: index.handler
+    handler: routes/users/get.handler
     events:
       - http: 'GET /users/{proxy+}'
+
   createUser:
-    handler: index.handler
+    handler: routes/users/create.handler
     events:
       - http: 'POST /users'
 
